@@ -1,4 +1,4 @@
-# A Star Path Finding Algorithm Visualization
+# A* Path Finding Algorithm Visualization
 This code is aimed at visualizing an interactive interface for the A* Path finding algorithm using PyGame. 
 
 ![imagen](https://i.imgur.com/H058gUx.jpg)
