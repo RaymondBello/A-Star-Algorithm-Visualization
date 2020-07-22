@@ -12,9 +12,12 @@ This code is aimed at visualizing an interactive interface for the A* Path findi
 * TURQUOISE -> Destination
 
 ## How to use
-* Install PyGame 
-* run astar.py
-* Set Origin and Destination
+```
+pip install pygame
+python3 astar.py
+```
+
+* Click to Set Origin and Destination
 * Right click boxes to make a boundary/wall
 * Left click boxes to remove boundary/wall
 * Press SPACE to begin path finding algorithm
