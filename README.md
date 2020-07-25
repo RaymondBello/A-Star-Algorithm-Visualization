@@ -1,8 +1,8 @@
 # A* Path Finding Algorithm Visualization
 
-![Build Status](https://img.shields.io/github/last-commit/RaymondBello/Procedural-Geometry-Planet-Maker) ![Build Status](https://img.shields.io/github/issues-raw/RaymondBello/Procedural-Geometry-Planet-Maker) ![Build Status](https://img.shields.io/github/contributors/RaymondBello/Procedural-Geometry-Planet-Maker?color) 
-![Build Status](https://img.shields.io/github/languages/top/RaymondBello/Procedural-Geometry-Planet-Maker) ![Build Status](https://img.shields.io/github/languages/count/RaymondBello/Procedural-Geometry-Planet-Maker) 
-![Build Status](https://img.shields.io/github/repo-size/RaymondBello/Procedural-Geometry-Planet-Maker?color=red) 
+![Build Status](https://img.shields.io/github/last-commit/RaymondBello/A-Star-Algorithm-Visualization) ![Build Status](https://img.shields.io/github/issues-raw/RaymondBello/A-Star-Algorithm-Visualization) ![Build Status](https://img.shields.io/github/contributors/RaymondBello/A-Star-Algorithm-Visualization?color) 
+![Build Status](https://img.shields.io/github/languages/top/RaymondBello/A-Star-Algorithm-Visualization) ![Build Status](https://img.shields.io/github/languages/count/RaymondBello/A-Star-Algorithm-Visualization) 
+![Build Status](https://img.shields.io/github/repo-size/RaymondBello/A-Star-Algorithm-Visualization?color=red) 
 
 This code is aimed at visualizing an interactive interface for the A* Path finding algorithm using PyGame. 
 
